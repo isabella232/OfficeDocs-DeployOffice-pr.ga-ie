@@ -15,12 +15,12 @@ ms.custom:
 - Ent_Office_Privacy
 description: Soláthraíonn sé seo osamharc ar rialtáin phríobháideachais le haghaidh Office 365 ProPlus do riarthóirí Office, lena n-áirítear le haghaidh sonraí diagnóiseacha agus eispéireas nasctha.
 hideEdit: true
-ms.openlocfilehash: a65fd2a6b7169c9098d233a926041d9cbc599886
-ms.sourcegitcommit: 3f5de6281b8e92c6c41a800f4374211188460320
+ms.openlocfilehash: a362a50b3d75e0792623745ef32fb93b4e458a41
+ms.sourcegitcommit: 0fd23324ba1364fa1f8dd1578adf25946adde90f
 ms.translationtype: HT
 ms.contentlocale: ga-IE
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34701117"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36238928"
 ---
 # <a name="overview-of-privacy-controls-for-office-365-proplus"></a>Osamharc ar rialtáin phríobháideachais le haghaidh Office 365 ProPlus
 
@@ -34,9 +34,11 @@ Mar chuid de na hathruithe seo, tá eilimintí nua agus nuashonraithe comhéadai
 
 > [!IMPORTANT]
 > - Baineann na hathruithe seo le Access, Excel, OneNote, Outlook, PowerPoint, Publisher, agus Word.
-> - Baineann na hathruithe seo le leaganacha deisce de Project agus Visio chomh maith a mbaineann roinnt pleananna síntiúis leo, cosúil le plean Project Online Professional nó Plean 2 Visio Online.
-> - Meastar go gcuirfear Leagan 1904 ar fáil sa Semi-Annual Channel (Spriocdhírithe) i mí Mheán Fómhair agus sa Semi-Annual Channel i mí Eanáir 2020.
-> - Tá sé beartaithe again na rialtáin nua phríobháideachais fheabhsaithe seo a sholáthar freisin le cliaint eile Office, Teams, Office for Mac agus ár bhfeidhmchláir mhóibíleacha san áireamh. Soláthróimid tuilleadh faisnéise faoi na hathruithe sin sna míonna atá romhainn. Leanfaimid de bheith ag éisteacht go cúramach le d’aiseolas agus feabhsúcháin a chur i gcrích thar raon chliaint agus seirbhísí Office 365.
+> - Baineann na hathruithe seo leis na leaganacha seo a leanas freisin:
+>   - Leagan 16.28 nó níos déanaí de na feidhmchláir Office for Mac seo a leanas: Excel, Outlook, OneNote, PowerPoint, agus Word.
+>   - Leagan 1904 nó níos déanaí de na leaganacha deisce de Project agus Visio a mbaineann roinnt pleananna síntiúis leo, cosúil le plean Project Online Professional nó Plean 2 Visio Online.
+> - Meastar go gcuirfear na rialtáin phríobháideachais a cuireadh ar fáil i Leagan 1904 ar fáil sa Chainéal Leathbhliantúil (Spriocdhírithe) i mí Mheán Fómhair 2019 agus sa Chainéal Leathbhliantúil i mí Eanáir 2020.
+> - Tá sé beartaithe againn na rialtáin nua phríobháideachais fheabhsaithe seo a sholáthar freisin le cliaint eile Office, Teams agus ár bhfeidhmchláir mhóibíleacha san áireamh. Soláthróimid tuilleadh faisnéise faoi na hathruithe sin sna míonna atá romhainn. Leanfaimid de bheith ag éisteacht go cúramach le d’aiseolas agus feabhsúcháin a chur i gcrích thar raon chliaint agus seirbhísí Office 365.
 
 ## <a name="diagnostic-data-sent-from-office-365-proplus-to-microsoft"></a>Sonraí diagnóiseacha a sheoltar ó Office 365 ProPlus chuig Microsoft
 
@@ -63,12 +65,12 @@ Ní bheidh d’úsáideoirí ábalta leibhéal sonraí diagnóiseacha a ngléasa
 Ní áirítear leis na sonraí diagnóiseacha sin ainmneacha na n-úsáideoirí, a seoltaí ríomhphoist, ná an t-inneachar óna gcomhaid Office. Cruthaíonn ár gcóras ID uathúil a chomhcheanglaítear le sonraí diagnóiseacha an úsáideora. Nuair a sheoltar sonraí diagnóiseacha chugainn a thaispeánann gur thuairteáil ceann dár bhfeidhmchláir 100 uair, ligeann an ID uathúil seo dúinn a fháil amach an úsáideoir aonair a thuairteáil 100 uair nó an 100 úsáideoir a thuairteáil uair amháin an duine. Ní úsáidimid an ID uathúil seo chun úsáideoir ar leith a aithint.
 
 Is féidir an tAmharcóir Sonraí Diagnóiseacha, ar féidir é a íoslódáil ó Microsoft Store agus a shuiteáil saor in aisce, a úsáid chun na sonraí diagnóiseacha a sheoltar chuig Office a fheiceáil.
-
-Chun tuilleadh faisnéise a fháil, féach:
+7 Chun tuilleadh faisnéise a fháil, féach ar an méid seo a leanas:
 
 - [Sonraí riachtanacha diagnóiseacha le haghaidh Office](required-diagnostic-data.md)
 - [Sonraí roghnacha diagnóiseacha le haghaidh Office](optional-diagnostic-data.md)
 - [Úsáid socruithe polasaí chun na rialtáin phríobháideachais le haghaidh Office 365 ProPlus a bhainistiú](manage-privacy-controls.md)
+- [Úsáid sainroghanna chun na rialtáin phríobháideachais le haghaidh Office for Mac a bhainistiú](mac-privacy-preferences.md)
 - [An tAmharcóir Sonraí Diagnóiseacha a úsáid le Office](https://support.office.com/article/cf761ce9-d805-4c60-a339-4e07f3182855)
 
 ## <a name="connected-experiences-for-office-365-proplus"></a>Eispéiris nasctha le haghaidh Office 365 ProPlus
@@ -93,6 +95,7 @@ Chun tuilleadh faisnéise a fháil, féach:
 
 - [Eispéiris nasctha in Office](connected-experiences.md)
 - [Úsáid socruithe polasaí chun na rialtáin phríobháideachais le haghaidh Office 365 ProPlus a bhainistiú](manage-privacy-controls.md)
+- [Úsáid sainroghanna chun na rialtáin phríobháideachais le haghaidh Office for Mac a bhainistiú](mac-privacy-preferences.md)
 
 ## <a name="optional-connected-experiences-for-office-365-proplus"></a>Eispéiris roghnacha nasctha le haghaidh Office 365 ProPlus
 
@@ -102,12 +105,13 @@ Eispéiris roghnacha nasctha is ea na heispéiris sin agus níl siad cumhdaithe 
 
 Déantar na heispéiris roghnacha nasctha seo a rialú le téarmaí agus coinníollacha ar leith agus, mar sin, is féidir iad a bhainistiú ar leithligh ó na heispéiris nasctha thuasluaite. Mar riarthóir eagraíochta, beidh tú ábalta socrú polasaí a úsáid chun roghnú cibé an ndéanfar na heispéiris roghnacha nasctha sin a sholáthar do d’úsáideoirí, mar ghrúpa. Má theipeann ort an socrú polasaí seo a chumrú, beidh rochtain ag d’úsáideoirí ar na heispéiris roghnacha nasctha sin.
 
-Fiú má roghnaíonn tú chun na heispéiris roghnacha nasctha sin a chur ar fáil do d’úsáideoirí, beidh rogha ag na húsáideoirí na heispéiris roghnacha nasctha a chasadh as, mar ghrúpa, ach gabháil chuig **Comhad** > **Cuntas** > **Príobháideachas cuntais** > **Bainistigh na socruithe**. Chun go mbeidh an rogha seo ag d’úsáideoirí, caithfidh siad a bheith sínithe isteach in Office lena bhfaisnéis aitheantais eagraíochtúil (a dtugtar cuntas oibre nó scoile uirthi uaireanta). Ní leor a bheith sínithe isteach le seoladh ríomhphoist pearsanta.
+Fiú má roghnaíonn tú chun na heispéiris roghnacha nasctha sin a chur ar fáil do d’úsáideoirí, beidh rogha ag d’úsáideoirí na heispéiris roghnacha nasctha a chasadh as, mar ghrúpa, ach gabháil chuig [bosca dialóige na socruithe príobháideachais](https://support.office.com/article/3e7bc183-bf52-4fd0-8e6b-78978f7f121b). Chun go mbeidh an rogha seo ag d’úsáideoirí, caithfidh siad a bheith sínithe isteach in Office lena bhfaisnéis aitheantais eagraíochtúil (a dtugtar cuntas oibre nó scoile uirthi uaireanta). Ní leor a bheith sínithe isteach le seoladh ríomhphoist pearsanta.
 
 Chun tuilleadh faisnéise a fháil, féach:
 
 - [Osamharc ar eispéiris roghnacha nasctha in Office](optional-connected-experiences.md)
 - [Úsáid socruithe polasaí chun na rialtáin phríobháideachais le haghaidh Office 365 ProPlus a bhainistiú](manage-privacy-controls.md)
+- [Úsáid sainroghanna chun na rialtáin phríobháideachais le haghaidh Office for Mac a bhainistiú](mac-privacy-preferences.md)
 
 ## <a name="required-service-data-for-connected-experiences"></a>Sonraí riachtanacha seirbhíse le haghaidh eispéiris nasctha
 
