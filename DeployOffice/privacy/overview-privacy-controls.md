@@ -15,12 +15,12 @@ ms.custom:
 - Ent_Office_Privacy
 description: Soláthraíonn sé seo osamharc ar rialtáin phríobháideachais le haghaidh Office 365 ProPlus do riarthóirí Office, lena n-áirítear le haghaidh sonraí diagnóiseacha agus eispéireas nasctha.
 hideEdit: true
-ms.openlocfilehash: a362a50b3d75e0792623745ef32fb93b4e458a41
-ms.sourcegitcommit: 0fd23324ba1364fa1f8dd1578adf25946adde90f
+ms.openlocfilehash: ab024c4ce2eb4d81809880b607e084932658be3c
+ms.sourcegitcommit: 3f2319ff2f8fcde87ae5ffefa3b956a8239c4aed
 ms.translationtype: HT
 ms.contentlocale: ga-IE
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36238928"
+ms.lasthandoff: 08/16/2019
+ms.locfileid: "36441599"
 ---
 # <a name="overview-of-privacy-controls-for-office-365-proplus"></a>Osamharc ar rialtáin phríobháideachais le haghaidh Office 365 ProPlus
 
@@ -65,7 +65,8 @@ Ní bheidh d’úsáideoirí ábalta leibhéal sonraí diagnóiseacha a ngléasa
 Ní áirítear leis na sonraí diagnóiseacha sin ainmneacha na n-úsáideoirí, a seoltaí ríomhphoist, ná an t-inneachar óna gcomhaid Office. Cruthaíonn ár gcóras ID uathúil a chomhcheanglaítear le sonraí diagnóiseacha an úsáideora. Nuair a sheoltar sonraí diagnóiseacha chugainn a thaispeánann gur thuairteáil ceann dár bhfeidhmchláir 100 uair, ligeann an ID uathúil seo dúinn a fháil amach an úsáideoir aonair a thuairteáil 100 uair nó an 100 úsáideoir a thuairteáil uair amháin an duine. Ní úsáidimid an ID uathúil seo chun úsáideoir ar leith a aithint.
 
 Is féidir an tAmharcóir Sonraí Diagnóiseacha, ar féidir é a íoslódáil ó Microsoft Store agus a shuiteáil saor in aisce, a úsáid chun na sonraí diagnóiseacha a sheoltar chuig Office a fheiceáil.
-7 Chun tuilleadh faisnéise a fháil, féach ar an méid seo a leanas:
+
+Chun tuilleadh faisnéise a fháil, féach:
 
 - [Sonraí riachtanacha diagnóiseacha le haghaidh Office](required-diagnostic-data.md)
 - [Sonraí roghnacha diagnóiseacha le haghaidh Office](optional-diagnostic-data.md)
