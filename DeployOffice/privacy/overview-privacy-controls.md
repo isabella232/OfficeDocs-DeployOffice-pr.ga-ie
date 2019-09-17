@@ -15,12 +15,12 @@ ms.custom:
 - Ent_Office_Privacy
 description: Soláthraíonn sé seo osamharc ar rialtáin phríobháideachais le haghaidh Office 365 ProPlus do riarthóirí Office, lena n-áirítear le haghaidh sonraí diagnóiseacha agus eispéireas nasctha.
 hideEdit: true
-ms.openlocfilehash: ab024c4ce2eb4d81809880b607e084932658be3c
-ms.sourcegitcommit: 3f2319ff2f8fcde87ae5ffefa3b956a8239c4aed
+ms.openlocfilehash: 329d3de3fd4ff20518a8a49f01d7c5bfcd75342b
+ms.sourcegitcommit: de39739d7ab82666ff1389be360d74c518ae97f6
 ms.translationtype: HT
 ms.contentlocale: ga-IE
-ms.lasthandoff: 08/16/2019
-ms.locfileid: "36441599"
+ms.lasthandoff: 09/13/2019
+ms.locfileid: "36980332"
 ---
 # <a name="overview-of-privacy-controls-for-office-365-proplus"></a>Osamharc ar rialtáin phríobháideachais le haghaidh Office 365 ProPlus
 
@@ -37,7 +37,8 @@ Mar chuid de na hathruithe seo, tá eilimintí nua agus nuashonraithe comhéadai
 > - Baineann na hathruithe seo leis na leaganacha seo a leanas freisin:
 >   - Leagan 16.28 nó níos déanaí de na feidhmchláir Office for Mac seo a leanas: Excel, Outlook, OneNote, PowerPoint, agus Word.
 >   - Leagan 1904 nó níos déanaí de na leaganacha deisce de Project agus Visio a mbaineann roinnt pleananna síntiúis leo, cosúil le plean Project Online Professional nó Plean 2 Visio Online.
-> - Meastar go gcuirfear na rialtáin phríobháideachais a cuireadh ar fáil i Leagan 1904 ar fáil sa Chainéal Leathbhliantúil (Spriocdhírithe) i mí Mheán Fómhair 2019 agus sa Chainéal Leathbhliantúil i mí Eanáir 2020.
+> - Tá na rialtáin phríobháideachais seo curtha san áireamh i leagan 1908 den Chainéal leathbhliantúil (spriocdhírithe), a eisíodh ar an 10 Meán Fómhair, 2019. Meastar go mbeidh fáil orthu sa Chainéal leathbhliantúil i mí Eanáir 2020.
+> - Tá sé sceidealta go mbeidh fáil ar na rialtáin phríobháideachais seo sa dara leath de mhí Dheireadh Fómhair 2019 le haghaidh leaganacha iOS Excel, OneNote, PowerPoint, Visio agus Word. Cuirfimid tuilleadh faisnéise ar fáil i dtús Dheireadh Fómhair.
 > - Tá sé beartaithe againn na rialtáin nua phríobháideachais fheabhsaithe seo a sholáthar freisin le cliaint eile Office, Teams agus ár bhfeidhmchláir mhóibíleacha san áireamh. Soláthróimid tuilleadh faisnéise faoi na hathruithe sin sna míonna atá romhainn. Leanfaimid de bheith ag éisteacht go cúramach le d’aiseolas agus feabhsúcháin a chur i gcrích thar raon chliaint agus seirbhísí Office 365.
 
 ## <a name="diagnostic-data-sent-from-office-365-proplus-to-microsoft"></a>Sonraí diagnóiseacha a sheoltar ó Office 365 ProPlus chuig Microsoft
