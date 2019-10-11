@@ -15,12 +15,12 @@ ms.custom:
 - Ent_Office_Privacy
 description: Soláthraíonn sé seo osamharc ar rialtáin phríobháideachais le haghaidh Office 365 ProPlus do riarthóirí Office, lena n-áirítear le haghaidh sonraí diagnóiseacha agus eispéireas nasctha.
 hideEdit: true
-ms.openlocfilehash: 329d3de3fd4ff20518a8a49f01d7c5bfcd75342b
-ms.sourcegitcommit: de39739d7ab82666ff1389be360d74c518ae97f6
+ms.openlocfilehash: 708c8b1dae02f54d4c6a6195cec9513c8639b62d
+ms.sourcegitcommit: aed9a0908021ffc80baa7159a66b63dd4f9f28e4
 ms.translationtype: HT
 ms.contentlocale: ga-IE
-ms.lasthandoff: 09/13/2019
-ms.locfileid: "36980332"
+ms.lasthandoff: 10/08/2019
+ms.locfileid: "37417405"
 ---
 # <a name="overview-of-privacy-controls-for-office-365-proplus"></a>Osamharc ar rialtáin phríobháideachais le haghaidh Office 365 ProPlus
 
@@ -38,8 +38,9 @@ Mar chuid de na hathruithe seo, tá eilimintí nua agus nuashonraithe comhéadai
 >   - Leagan 16.28 nó níos déanaí de na feidhmchláir Office for Mac seo a leanas: Excel, Outlook, OneNote, PowerPoint, agus Word.
 >   - Leagan 1904 nó níos déanaí de na leaganacha deisce de Project agus Visio a mbaineann roinnt pleananna síntiúis leo, cosúil le plean Project Online Professional nó Plean 2 Visio Online.
 > - Tá na rialtáin phríobháideachais seo curtha san áireamh i leagan 1908 den Chainéal leathbhliantúil (spriocdhírithe), a eisíodh ar an 10 Meán Fómhair, 2019. Meastar go mbeidh fáil orthu sa Chainéal leathbhliantúil i mí Eanáir 2020.
-> - Tá sé sceidealta go mbeidh fáil ar na rialtáin phríobháideachais seo sa dara leath de mhí Dheireadh Fómhair 2019 le haghaidh leaganacha iOS Excel, OneNote, PowerPoint, Visio agus Word. Cuirfimid tuilleadh faisnéise ar fáil i dtús Dheireadh Fómhair.
-> - Tá sé beartaithe againn na rialtáin nua phríobháideachais fheabhsaithe seo a sholáthar freisin le cliaint eile Office, Teams agus ár bhfeidhmchláir mhóibíleacha san áireamh. Soláthróimid tuilleadh faisnéise faoi na hathruithe sin sna míonna atá romhainn. Leanfaimid de bheith ag éisteacht go cúramach le d’aiseolas agus feabhsúcháin a chur i gcrích thar raon chliaint agus seirbhísí Office 365.
+> - Tá sé sceidealta go mbeidh fáil ar na rialtáin phríobháideachais seo sa dara leath de mhí Dheireadh Fómhair 2019 le haghaidh leaganacha iOS Excel, OneNote, PowerPoint, Visio agus Word. Cuirfimid tuilleadh faisnéise ar fáil go luath i mí Dheireadh Fómhair.
+> - Tá formhór na bhfeidhmchlár Gréasáin le haghaidh Office sceidealaithe chun tús a chur le húsáid an rialtáin phríobháideachais nua le haghaidh [eispéireas roghnach nasctha ](optional-connected-experiences.md) i lár Dheireadh Fómhair 2019. Seo a leanas na feidhmchláir: Excel le haghaidh an Ghréasáin, OneNote le haghaidh an Ghréasáin, PowerPoint le haghaidh an Ghréasáin, Visio le haghaidh an Ghréasáin, agus Word le haghaidh an Ghréasáin. Sula dtosaíonn sé sin, is féidir leat [seirbhís pholasaí néil Office](../overview-office-cloud-policy-service.md) a úsáid chun an [socrú polasaí](manage-privacy-controls.md#policy-setting-for-optional-connected-experiences) oiriúnach a chumrú.
+> - Beidh na rialtáin nua agus feabhsaithe príobháideachais seo á soláthar againn do chliaint bhreise Office, lena n-áirítear Teams agus ár bhfeidhmchláir mhóibíleacha. Soláthróimid tuilleadh faisnéise faoi na hathruithe sin sna míonna atá romhainn. Leanfaimid de bheith ag éisteacht go cúramach le d’aiseolas agus feabhsúcháin a chur i gcrích thar raon chliaint agus seirbhísí Office 365.
 
 ## <a name="diagnostic-data-sent-from-office-365-proplus-to-microsoft"></a>Sonraí diagnóiseacha a sheoltar ó Office 365 ProPlus chuig Microsoft
 
