@@ -15,12 +15,12 @@ ms.custom:
 - Ent_Office_Privacy
 description: Soláthraíonn sé seo osamharc ar rialtáin phríobháideachais le haghaidh Office 365 ProPlus do riarthóirí Office, lena n-áirítear le haghaidh sonraí diagnóiseacha agus eispéireas nasctha.
 hideEdit: true
-ms.openlocfilehash: 24a3d30d05fb2a1456e10d8a8036f31c25c14db7
-ms.sourcegitcommit: 02c4120c0b10bfe378d21d60699ae49aaef97834
+ms.openlocfilehash: 784bbf08626e6dc8571c416a74511c9f5feeceec
+ms.sourcegitcommit: acb22296532bbfdfcad4dc1e7162f812997fbdd1
 ms.translationtype: HT
 ms.contentlocale: ga-IE
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37510693"
+ms.lasthandoff: 11/08/2019
+ms.locfileid: "38067347"
 ---
 # <a name="overview-of-privacy-controls-for-office-365-proplus"></a>Osamharc ar rialtáin phríobháideachais le haghaidh Office 365 ProPlus
 
@@ -39,7 +39,8 @@ Mar chuid de na hathruithe seo, tá eilimintí nua agus nuashonraithe comhéadai
 >   - Leagan 1904 nó níos déanaí de na leaganacha deisce de Project agus Visio a mbaineann roinnt pleananna síntiúis leo, cosúil le plean Project Online Professional nó Plean 2 Visio Online.
 > - Tá na rialtáin phríobháideachais seo curtha san áireamh i leagan 1908 den Chainéal leathbhliantúil (spriocdhírithe), a eisíodh ar an 10 Meán Fómhair, 2019. Meastar go mbeidh fáil orthu sa Chainéal leathbhliantúil i mí Eanáir 2020.
 > - Tá na rialtáin phríobháideachais seo ar fáil do Leagan 2.30 agus níos deanaí de leaganacha iOS de Excel, OneNote, PowerPoint, agus Word, agus do Leagan 1.17 agus níos déanaí de Visio Viewer for iOS.
-> - Tá formhór na bhfeidhmchlár Gréasáin le haghaidh Office sceidealaithe chun tús a chur le húsáid an rialtáin phríobháideachais nua le haghaidh [eispéireas roghnach nasctha ](optional-connected-experiences.md) i lár Dheireadh Fómhair 2019. Seo a leanas na feidhmchláir: Excel le haghaidh an Ghréasáin, OneNote le haghaidh an Ghréasáin, PowerPoint le haghaidh an Ghréasáin, Visio le haghaidh an Ghréasáin, agus Word le haghaidh an Ghréasáin. Sula dtosaíonn sé sin, is féidir leat [seirbhís pholasaí néil Office](../overview-office-cloud-policy-service.md) a úsáid chun an [socrú polasaí](manage-privacy-controls.md#policy-setting-for-optional-connected-experiences) oiriúnach a chumrú.
+> - Tá na rialtáin phríobháideachais seo ar fáil le haghaidh Leagan 16.0.12226.10000 agus níos déanaí de na leaganacha Android de Excel, PowerPoint, agus Word, mar aon le Leagan 16.0.12228.20004 agus níos déanaí de OneNote for Android.
+> - Úsáideann formhór den Office le haghaidh na bhfeidhmchlár gréasáin an rialtán príobháideachais nua le haghaidh [eispéireas nasctha roghnacha](optional-connected-experiences.md). Seo a leanas na feidhmchláir: Excel le haghaidh an Ghréasáin, OneNote le haghaidh an Ghréasáin, PowerPoint le haghaidh an Ghréasáin, Visio le haghaidh an Ghréasáin, agus Word le haghaidh an Ghréasáin. Is féidir leat an [polasaí néalseirbhíse Office](../overview-office-cloud-policy-service.md) a úsáid chun an [socrú polasaí](manage-privacy-controls.md#policy-setting-for-optional-connected-experiences) cuí a chumrú.
 > - Beidh na rialtáin nua agus feabhsaithe príobháideachais seo á soláthar againn do chliaint bhreise Office, lena n-áirítear Teams agus ár bhfeidhmchláir mhóibíleacha. Soláthróimid tuilleadh faisnéise faoi na hathruithe sin sna míonna atá romhainn. Leanfaimid de bheith ag éisteacht go cúramach le d’aiseolas agus feabhsúcháin a chur i gcrích thar raon chliaint agus seirbhísí Office 365.
 
 ## <a name="diagnostic-data-sent-from-office-365-proplus-to-microsoft"></a>Sonraí diagnóiseacha a sheoltar ó Office 365 ProPlus chuig Microsoft
@@ -75,6 +76,7 @@ Chun tuilleadh faisnéise a fháil, féach:
 - [Úsáid socruithe polasaí chun na rialtáin phríobháideachais le haghaidh Office 365 ProPlus a bhainistiú](manage-privacy-controls.md)
 - [Úsáid sainroghanna chun na rialtáin phríobháideachais le haghaidh Office for Mac a bhainistiú](mac-privacy-preferences.md)
 - [Úsáid sainroghanna chun rialtáin phríobháideachais a bhainistiú le haghaidh Office ar ghléasanna iOS](ios-privacy-preferences.md)
+- [Úsáid socruithe beartais chun rialtáin phríobháideachais le haghaidh Office ar ghléasanna Android a bhainistiú](android-privacy-controls.md)
 - [An tAmharcóir Sonraí Diagnóiseacha a úsáid le Office](https://support.office.com/article/cf761ce9-d805-4c60-a339-4e07f3182855)
 
 ## <a name="connected-experiences-for-office-365-proplus"></a>Eispéiris nasctha le haghaidh Office 365 ProPlus
@@ -101,6 +103,7 @@ Chun tuilleadh faisnéise a fháil, féach:
 - [Úsáid socruithe polasaí chun na rialtáin phríobháideachais le haghaidh Office 365 ProPlus a bhainistiú](manage-privacy-controls.md)
 - [Úsáid sainroghanna chun na rialtáin phríobháideachais le haghaidh Office for Mac a bhainistiú](mac-privacy-preferences.md)
 - [Úsáid sainroghanna chun rialtáin phríobháideachais a bhainistiú le haghaidh Office ar ghléasanna iOS](ios-privacy-preferences.md)
+- [Úsáid socruithe beartais chun rialtáin phríobháideachais le haghaidh Office ar ghléasanna Android a bhainistiú](android-privacy-controls.md)
 
 ## <a name="optional-connected-experiences-for-office-365-proplus"></a>Eispéiris roghnacha nasctha le haghaidh Office 365 ProPlus
 
@@ -118,6 +121,7 @@ Chun tuilleadh faisnéise a fháil, féach:
 - [Úsáid socruithe polasaí chun na rialtáin phríobháideachais le haghaidh Office 365 ProPlus a bhainistiú](manage-privacy-controls.md)
 - [Úsáid sainroghanna chun na rialtáin phríobháideachais le haghaidh Office for Mac a bhainistiú](mac-privacy-preferences.md)
 - [Úsáid sainroghanna chun rialtáin phríobháideachais a bhainistiú le haghaidh Office ar ghléasanna iOS](ios-privacy-preferences.md)
+- [Úsáid socruithe beartais chun rialtáin phríobháideachais le haghaidh Office ar ghléasanna Android a bhainistiú](android-privacy-controls.md)
 
 ## <a name="required-service-data-for-connected-experiences"></a>Sonraí riachtanacha seirbhíse le haghaidh eispéiris nasctha
 
