@@ -3,6 +3,7 @@
 ## [Bainistigh rialtáin phríobháideachais le socruithe polasaí](manage-privacy-controls.md)
 ## [Bainistigh rialtáin phríobháideachais le sainroghanna (Mac)](mac-privacy-preferences.md)
 ## [Bainistigh rialtáin phríobháideachais le sainroghanna (iOS)](ios-privacy-preferences.md)
+## [Bainistigh rialtáin phríobháideachais le socruithe beartais (Android)](android-privacy-controls.md)
 
 ## Sonraí diagnóiseacha
 ### [Sonraí riachtanacha diagnóiseacha](required-diagnostic-data.md)
