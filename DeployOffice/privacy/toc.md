@@ -1,9 +1,12 @@
 # Príobháideachas le haghaidh Office 365 ProPlus
+
 ## [Osamharc ar rialtáin phríobháideachais](overview-privacy-controls.md)
-## [Bainistigh rialtáin phríobháideachais le socruithe polasaí](manage-privacy-controls.md)
-## [Bainistigh rialtáin phríobháideachais le sainroghanna (Mac)](mac-privacy-preferences.md)
-## [Bainistigh rialtáin phríobháideachais le sainroghanna (iOS)](ios-privacy-preferences.md)
-## [Bainistigh rialtáin phríobháideachais le socruithe beartais (Android)](android-privacy-controls.md)
+
+## Bainistigh rialtáin phríobháideachais
+### [Socruithe polasaí Windows](manage-privacy-controls.md)
+### [Sainroghanna Mac](mac-privacy-preferences.md)
+### [Sainroghanna iOS](ios-privacy-preferences.md)
+### [Socruithe polasaí Android](android-privacy-controls.md)
 
 ## Sonraí diagnóiseacha
 ### [Sonraí riachtanacha diagnóiseacha](required-diagnostic-data.md)
