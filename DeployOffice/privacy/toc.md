@@ -1,4 +1,4 @@
-# Príobháideachas le haghaidh Office 365 ProPlus
+# Príobháideacht i gcomhair feidhmchláir Microsoft 365 le haghaidh úsáide fiontair
 
 ## [Osamharc ar rialtáin phríobháideachais](overview-privacy-controls.md)
 

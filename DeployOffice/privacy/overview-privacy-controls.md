@@ -1,5 +1,5 @@
 ---
-title: Osamharc ar rialtáin phríobháideachais le haghaidh Office 365 ProPlus
+title: Osamharc ar rialtáin phríobháideachais i comhair Feidhmchláir Microsoft 365 le haghaidh úsáide fiontair
 ms.author: danbrown
 author: DHB-MSFT
 manager: laurawi
@@ -13,20 +13,20 @@ ms.collection:
 ms.custom:
 - Ent_Office_ProPlus
 - Ent_Office_Privacy
-description: Soláthraíonn sé seo osamharc ar rialtáin phríobháideachais le haghaidh Office 365 ProPlus do riarthóirí Office, lena n-áirítear le haghaidh sonraí diagnóiseacha agus eispéireas nasctha.
+description: Soláthraíonn sé seo osamharc ar rialtáin phríobháideachais le haghaidh Feidhmchláir Microsoft 365 le haghaidh úsáide fiontair (Office 365 ProPlus roimhe seo) lena n-áirítear le haghaidh sonraí diagnóiseacha agus eispéireas nasctha.
 hideEdit: true
-ms.openlocfilehash: 784bbf08626e6dc8571c416a74511c9f5feeceec
-ms.sourcegitcommit: acb22296532bbfdfcad4dc1e7162f812997fbdd1
+ms.openlocfilehash: e22388cb73a539e13f67163bf0b0e949b10be349
+ms.sourcegitcommit: 3890a23390edd0b5fdb2cf33613ec0778566cf97
 ms.translationtype: HT
 ms.contentlocale: ga-IE
-ms.lasthandoff: 11/08/2019
-ms.locfileid: "38067347"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43993084"
 ---
-# <a name="overview-of-privacy-controls-for-office-365-proplus"></a>Osamharc ar rialtáin phríobháideachais le haghaidh Office 365 ProPlus
+# <a name="overview-of-privacy-controls-for-microsoft-365-apps-for-enterprise"></a>Osamharc ar rialtáin phríobháideachais i comhair Feidhmchláir Microsoft 365 le haghaidh úsáide fiontair
 
-Tá Microsoft tiomanta don fhaisnéis agus do na rialtáin a sholáthar duit atá riachtanach chun roghanna a dhéanamh maidir leis an gcaoi a bhailítear agus a úsáidtear do shonraí nuair atá Office 365 ProPlus in úsáid agat. 
+Tá Microsoft tiomanta don fhaisnéis agus do na rialtáin a sholáthar duit atá riachtanach chun roghanna a dhéanamh maidir leis an gcaoi a bhailítear agus a úsáidtear do shonraí nuair atá Feidhmchláir Microsoft 365 le haghaidh úsáide fiontair (Office 365 ProPlus roimhe seo) in úsáid agat.
 
-Ag tosú le Leagan 1904 de Office 365 ProPlus (a cuireadh ar fáil in Monthly Channel ar an 29 Aibreán, 2019), táimid ag cur rialúcháin phríobháideachais nua, nuashonraithe, agus feabhsaithe ar fáil duit sna limistéir seo a leanas:
+Ag tosú le Leagan 1904 de Feidhmchláir Microsoft 365 le haghaidh úsáide fiontair, táimid ag cur rialúcháin phríobháideachais nua, nuashonraithe, agus feabhsaithe ar fáil duit sna limistéir seo a leanas:
 - ***Sonraí diagnóiseacha*** a bhailítear agus a sheoltar chuig Microsoft faoi na bogearraí cliaint Office atá á n-úsáid ar ríomhairí i d’eagraíocht ar a bhfuil Windows á rith.
 - ***Eispéiris nasctha*** a úsáideann feidhmíocht néalbhunaithe chun gnéithe feabhsaithe Office a sholáthar duit féin agus do d’úsáideoirí.
 
@@ -36,14 +36,14 @@ Mar chuid de na hathruithe seo, tá eilimintí nua agus nuashonraithe comhéadai
 > - Baineann na hathruithe seo le Access, Excel, OneNote, Outlook, PowerPoint, Publisher, agus Word.
 > - Baineann na hathruithe seo leis na leaganacha seo a leanas freisin:
 >   - Leagan 16.28 nó níos déanaí de na feidhmchláir Office for Mac seo a leanas: Excel, Outlook, OneNote, PowerPoint, agus Word.
->   - Leagan 1904 nó níos déanaí de na leaganacha deisce de Project agus Visio a mbaineann roinnt pleananna síntiúis leo, cosúil le plean Project Online Professional nó Plean 2 Visio Online.
-> - Tá na rialtáin phríobháideachais seo curtha san áireamh i leagan 1908 den Chainéal leathbhliantúil (spriocdhírithe), a eisíodh ar an 10 Meán Fómhair, 2019. Meastar go mbeidh fáil orthu sa Chainéal leathbhliantúil i mí Eanáir 2020.
+>   - Leagan 1904 nó níos déanaí de na leaganacha deisce de Project agus Visio a mbaineann roinnt pleananna síntiúis leo, cosúil le plean Project 5 nó Plean Visio 2.
+> - Tá na rialtáin phríobháideachais seo curtha san áireamh i leagan 1908 den Chainéal leathbhliantúil (spriocdhírithe).
 > - Tá na rialtáin phríobháideachais seo ar fáil do Leagan 2.30 agus níos deanaí de leaganacha iOS de Excel, OneNote, PowerPoint, agus Word, agus do Leagan 1.17 agus níos déanaí de Visio Viewer for iOS.
 > - Tá na rialtáin phríobháideachais seo ar fáil le haghaidh Leagan 16.0.12226.10000 agus níos déanaí de na leaganacha Android de Excel, PowerPoint, agus Word, mar aon le Leagan 16.0.12228.20004 agus níos déanaí de OneNote for Android.
 > - Úsáideann formhór den Office le haghaidh na bhfeidhmchlár gréasáin an rialtán príobháideachais nua le haghaidh [eispéireas nasctha roghnacha](optional-connected-experiences.md). Seo a leanas na feidhmchláir: Excel le haghaidh an Ghréasáin, OneNote le haghaidh an Ghréasáin, PowerPoint le haghaidh an Ghréasáin, Visio le haghaidh an Ghréasáin, agus Word le haghaidh an Ghréasáin. Is féidir leat an [polasaí néalseirbhíse Office](../overview-office-cloud-policy-service.md) a úsáid chun an [socrú polasaí](manage-privacy-controls.md#policy-setting-for-optional-connected-experiences) cuí a chumrú.
-> - Beidh na rialtáin nua agus feabhsaithe príobháideachais seo á soláthar againn do chliaint bhreise Office, lena n-áirítear Teams agus ár bhfeidhmchláir mhóibíleacha. Soláthróimid tuilleadh faisnéise faoi na hathruithe sin sna míonna atá romhainn. Leanfaimid de bheith ag éisteacht go cúramach le d’aiseolas agus feabhsúcháin a chur i gcrích thar raon chliaint agus seirbhísí Office 365.
+> - Beidh na rialtáin nua agus feabhsaithe príobháideachais seo á soláthar againn do chliaint bhreise Office, lena n-áirítear Teams agus ár bhfeidhmchláir mhóibíleacha. Soláthróimid tuilleadh faisnéise faoi na hathruithe sin sna míonna atá romhainn. Leanfaimid de bheith ag éisteacht go cúramach le d’aiseolas agus feabhsúcháin a chur i gcrích thar raon chliaint agus seirbhísí Office 365 (agus Microsoft 365).
 
-## <a name="diagnostic-data-sent-from-office-365-proplus-to-microsoft"></a>Sonraí diagnóiseacha a sheoltar ó Office 365 ProPlus chuig Microsoft
+## <a name="diagnostic-data-sent-from-microsoft-365-apps-for-enterprise-to-microsoft"></a>Sonraí diagnóiseacha seolta ó Feidhmchláir Microsoft 365 le haghaidh úsáide fiontair
 
 Úsáidtear sonraí diagnóiseacha chun Office a choimeád slán agus cothrom le dáta, chun fadhbanna a bhrath, a dhiagnóisiú agus a réiteach agus chun táirgí a fheabhsú. Ní áirítear leis na sonraí sin ainm agus seoladh ríomhphoist an úsáideora, inneachar ó chomhaid an úsáideora, ná faisnéis faoi fheidhmchláir nach mbaineann le Office.
 
@@ -73,15 +73,15 @@ Chun tuilleadh faisnéise a fháil, féach:
 
 - [Sonraí riachtanacha diagnóiseacha le haghaidh Office](required-diagnostic-data.md)
 - [Sonraí roghnacha diagnóiseacha le haghaidh Office](optional-diagnostic-data.md)
-- [Úsáid socruithe polasaí chun na rialtáin phríobháideachais le haghaidh Office 365 ProPlus a bhainistiú](manage-privacy-controls.md)
+- [Úsáid socruithe beartais chun rialtáin phríobháideachais le haghaidh Feidhmchláir Microsoft 365 le haghaidh úsáide fiontair a bhainistiú](manage-privacy-controls.md)
 - [Úsáid sainroghanna chun na rialtáin phríobháideachais le haghaidh Office for Mac a bhainistiú](mac-privacy-preferences.md)
 - [Úsáid sainroghanna chun rialtáin phríobháideachais a bhainistiú le haghaidh Office ar ghléasanna iOS](ios-privacy-preferences.md)
 - [Úsáid socruithe beartais chun rialtáin phríobháideachais le haghaidh Office ar ghléasanna Android a bhainistiú](android-privacy-controls.md)
 - [An tAmharcóir Sonraí Diagnóiseacha a úsáid le Office](https://support.office.com/article/cf761ce9-d805-4c60-a339-4e07f3182855)
 
-## <a name="connected-experiences-for-office-365-proplus"></a>Eispéiris nasctha le haghaidh Office 365 ProPlus
+## <a name="connected-experiences-for-microsoft-365-apps-for-enterprise"></a>Eispéiris nasctha i gcomhair feidhmchláir Microsoft 365 le haghaidh úsáide fiontair
 
-Tá feidhmchláir bogearraí cliaint agus eispéiris nasctha in Office 365 ProPlus, a dearadh chun a chur ar do chumas rudaí a chruthú, cumarsáid a dhéanamh agus comhoibriú ar bhonn níos éifeachtúla. Is samplaí eispéireas nasctha iad na rudaí seo a leanas: a bheith ag oibriú le daoine eile ar dhoiciméad atá á stóráil ar OneDrive for Business nó doiciméad Word a aistriú i dteanga eile.
+Is éard atá i Microsoft 365 le haghaidh úsáide fiontair feidhmchláir bogearraí cliaint agus eispéiris nasctha atá deartha chun cur ar do chumas rudaí a chruthú, cumarsáid a dhéanamh, agus comhoibriú ar bhealach níos éifeachtúla. Is samplaí eispéireas nasctha iad na rudaí seo a leanas: a bheith ag oibriú le daoine eile ar dhoiciméad atá á stóráil ar OneDrive for Business nó doiciméad Word a aistriú i dteanga eile.
 
 Tuigimid go bhféadfadh fonn a bheith ort na cineálacha eispéireas nasctha a roghnú a chuirtear ar fáil do d’úsáideoirí nuair a bhíonn siad ag obair i bhfeidhmchláir Office. Mar riarthóir eagraíochta, beidh socruithe polasaí agat a ligeann duit roghnú cibé an ndéanfar na cineálacha eispéireas nasctha seo a sholáthar do d’úsáideoirí:
 
@@ -100,14 +100,14 @@ Ní bheidh d’úsáideoirí ábalta roghnú cibé an ndéanfar na heispéiris n
 Chun tuilleadh faisnéise a fháil, féach:
 
 - [Eispéiris nasctha in Office](connected-experiences.md)
-- [Úsáid socruithe polasaí chun na rialtáin phríobháideachais le haghaidh Office 365 ProPlus a bhainistiú](manage-privacy-controls.md)
+- [Úsáid socruithe beartais chun rialtáin phríobháideachais le haghaidh Feidhmchláir Microsoft 365 le haghaidh úsáide fiontair a bhainistiú](manage-privacy-controls.md)
 - [Úsáid sainroghanna chun na rialtáin phríobháideachais le haghaidh Office for Mac a bhainistiú](mac-privacy-preferences.md)
 - [Úsáid sainroghanna chun rialtáin phríobháideachais a bhainistiú le haghaidh Office ar ghléasanna iOS](ios-privacy-preferences.md)
 - [Úsáid socruithe beartais chun rialtáin phríobháideachais le haghaidh Office ar ghléasanna Android a bhainistiú](android-privacy-controls.md)
 
-## <a name="optional-connected-experiences-for-office-365-proplus"></a>Eispéiris roghnacha nasctha le haghaidh Office 365 ProPlus
+## <a name="optional-connected-experiences-for-microsoft-365-apps-for-enterprise"></a>Eispéiris roghnacha nasctha i gcomhair feidhmchláir Microsoft 365 le haghaidh úsáide fiontair
 
-De bhreis ar na heispéiris nasctha thuasluaite, a thagann le Office 365 ProPlus, tá eispéiris roghnacha nasctha ann a bhféadfá cead a thabhairt do d’úsáideoirí iad a rochtain lena gcuntas eagraíochta. Mar shampla, gnéithe LinkedIn an Chúntóir CV in Word nó gné Mhapaí 3T in Excel, a úsáideann Bing.
+De bhreis ar na heispéiris nasctha thuasluaite, a thagann le feidhmchláir Microsoft 365 le haghaidh úsáide fiontair, tá eispéiris roghnacha nasctha ann a bhféadfá cead a thabhairt do d’úsáideoirí iad a rochtain lena gcuntas eagraíochta. Mar shampla, gnéithe LinkedIn an Chúntóir CV in Word nó gné Mhapaí 3T in Excel, a úsáideann Bing.
 
 Eispéiris roghnacha nasctha is ea na heispéiris sin agus níl siad cumhdaithe le comhaontú tráchtála na heagraíochta le Microsoft. Tá na heispéiris roghnacha nasctha sin cumhdaithe le téarmaí agus coinníollacha ar leith. Tá na heispéiris roghnacha nasctha, arna dtairiscint go díreach ag Microsoft le d’úsáideoirí, á rialú le [Comhaontú seirbhísí Microsoft](https://www.microsoft.com/servicesagreement) seachas leis na [Téarmaí seirbhísí ar líne](https://www.microsoft.com/licensing/product-licensing/products).
 
@@ -118,7 +118,7 @@ Fiú má roghnaíonn tú chun na heispéiris roghnacha nasctha sin a chur ar fá
 Chun tuilleadh faisnéise a fháil, féach:
 
 - [Osamharc ar eispéiris roghnacha nasctha in Office](optional-connected-experiences.md)
-- [Úsáid socruithe polasaí chun na rialtáin phríobháideachais le haghaidh Office 365 ProPlus a bhainistiú](manage-privacy-controls.md)
+- [Úsáid socruithe beartais chun rialtáin phríobháideachais le haghaidh Feidhmchláir Microsoft 365 le haghaidh úsáide fiontair a bhainistiú](manage-privacy-controls.md)
 - [Úsáid sainroghanna chun na rialtáin phríobháideachais le haghaidh Office for Mac a bhainistiú](mac-privacy-preferences.md)
 - [Úsáid sainroghanna chun rialtáin phríobháideachais a bhainistiú le haghaidh Office ar ghléasanna iOS](ios-privacy-preferences.md)
 - [Úsáid socruithe beartais chun rialtáin phríobháideachais le haghaidh Office ar ghléasanna Android a bhainistiú](android-privacy-controls.md)
@@ -143,9 +143,9 @@ Má roghnaíonn tú gan an chatagóir d’eispéiris nasctha a chur ar fáil do 
 
 Chun tuilleadh faisnéise a fháil, féach [Sonraí riachtanacha seirbhíse le haghaidh Office](required-service-data.md).
 
-## <a name="essential-services-for-office-365-proplus"></a>Seirbhísí riachtanacha le haghaidh Office 365 ProPlus
+## <a name="essential-services-for-microsoft-365-apps-for-enterprise"></a>Seirbhísí riachtanacha i gcomhair feidhmchláir Microsoft 365 le haghaidh úsáide fiontair
 
-Tá tacar seirbhísí ann chomh maith atá riachtanach don chaoi a fheidhmíonn Office 365 ProPlus agus ní féidir na seirbhísí sin a dhíchumasú. Mar shampla, an tseirbhís cheadúnaithe a dheimhníonn go bhfuil an ceadúnas ceart agat chun Office 365 ProPlus a úsáid. Bailítear agus seoltar sonraí riachtanacha seirbhíse chuig Microsoft, beag beann ar aon socruithe polasaí eile a d’fhéadfadh a bheith cumraithe agat.
+Tá tacar seirbhísí ann chomh maith atá riachtanach don chaoi a fheidhmíonn feidhmchláir Microsoft 365 le haghaidh úsáide fiontair agus ní féidir na seirbhísí sin a dhíchumasú. Mar shampla, an tseirbhís cheadúnaithe a dheimhníonn go bhfuil an ceadúnas ceart agat chun feidhmchláir Microsoft 365 le haghaidh úsáide fiontair a úsáid. Bailítear agus seoltar sonraí riachtanacha seirbhíse chuig Microsoft, beag beann ar aon socruithe polasaí eile a d’fhéadfadh a bheith cumraithe agat.
 
 Chun tuilleadh faisnéise a fháil, féach [Seirbhísí riachtanacha le haghaidh Office](essential-services.md).
 
