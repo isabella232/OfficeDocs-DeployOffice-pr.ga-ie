@@ -15,12 +15,12 @@ ms.custom:
 - Ent_Office_Privacy
 description: Soláthraíonn sé seo osamharc ar rialtáin phríobháideachais le haghaidh Feidhmchláir Microsoft 365 le haghaidh úsáide fiontair (Office 365 ProPlus roimhe seo) lena n-áirítear le haghaidh sonraí diagnóiseacha agus eispéireas nasctha.
 hideEdit: true
-ms.openlocfilehash: e22388cb73a539e13f67163bf0b0e949b10be349
-ms.sourcegitcommit: 3890a23390edd0b5fdb2cf33613ec0778566cf97
+ms.openlocfilehash: 134f7470354796679c9a8c69fac8dd2559302b72
+ms.sourcegitcommit: f8201a088d2b160b6fcec2342e11be0e9ba3d189
 ms.translationtype: HT
 ms.contentlocale: ga-IE
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43993084"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44663531"
 ---
 # <a name="overview-of-privacy-controls-for-microsoft-365-apps-for-enterprise"></a>Osamharc ar rialtáin phríobháideachais i comhair Feidhmchláir Microsoft 365 le haghaidh úsáide fiontair
 
@@ -37,7 +37,7 @@ Mar chuid de na hathruithe seo, tá eilimintí nua agus nuashonraithe comhéadai
 > - Baineann na hathruithe seo leis na leaganacha seo a leanas freisin:
 >   - Leagan 16.28 nó níos déanaí de na feidhmchláir Office for Mac seo a leanas: Excel, Outlook, OneNote, PowerPoint, agus Word.
 >   - Leagan 1904 nó níos déanaí de na leaganacha deisce de Project agus Visio a mbaineann roinnt pleananna síntiúis leo, cosúil le plean Project 5 nó Plean Visio 2.
-> - Tá na rialtáin phríobháideachais seo curtha san áireamh i leagan 1908 den Chainéal leathbhliantúil (spriocdhírithe).
+> - Tá na rialtáin phríobháideachais seo curtha san áireamh i leagan 1908 nó níos déanaí den Chainéal leathbhliantúil fiontraíochta (réamhamharc) agus den Chainéal leathbhliantúil fiontraíochta.
 > - Tá na rialtáin phríobháideachais seo ar fáil do Leagan 2.30 agus níos deanaí de leaganacha iOS de Excel, OneNote, PowerPoint, agus Word, agus do Leagan 1.17 agus níos déanaí de Visio Viewer for iOS.
 > - Tá na rialtáin phríobháideachais seo ar fáil le haghaidh Leagan 16.0.12226.10000 agus níos déanaí de na leaganacha Android de Excel, PowerPoint, agus Word, mar aon le Leagan 16.0.12228.20004 agus níos déanaí de OneNote for Android.
 > - Úsáideann formhór den Office le haghaidh na bhfeidhmchlár gréasáin an rialtán príobháideachais nua le haghaidh [eispéireas nasctha roghnacha](optional-connected-experiences.md). Seo a leanas na feidhmchláir: Excel le haghaidh an Ghréasáin, OneNote le haghaidh an Ghréasáin, PowerPoint le haghaidh an Ghréasáin, Visio le haghaidh an Ghréasáin, agus Word le haghaidh an Ghréasáin. Is féidir leat an [polasaí néalseirbhíse Office](../overview-office-cloud-policy-service.md) a úsáid chun an [socrú polasaí](manage-privacy-controls.md#policy-setting-for-optional-connected-experiences) cuí a chumrú.
