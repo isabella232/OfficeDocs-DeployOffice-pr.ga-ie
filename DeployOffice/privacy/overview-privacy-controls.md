@@ -15,12 +15,12 @@ ms.custom:
 - Ent_Office_Privacy
 description: Soláthraíonn sé seo osamharc ar rialtáin phríobháideachais le haghaidh Feidhmchláir Microsoft 365 le haghaidh úsáide fiontair (Office 365 ProPlus roimhe seo) lena n-áirítear le haghaidh sonraí diagnóiseacha agus eispéireas nasctha.
 hideEdit: true
-ms.openlocfilehash: 134f7470354796679c9a8c69fac8dd2559302b72
-ms.sourcegitcommit: f8201a088d2b160b6fcec2342e11be0e9ba3d189
+ms.openlocfilehash: f5a957d57a7c8f95503091f456aef5a9c1e0fca7
+ms.sourcegitcommit: f441b1a5f8853c0941b3e23c7781c89abf0be641
 ms.translationtype: HT
 ms.contentlocale: ga-IE
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44663531"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "45087679"
 ---
 # <a name="overview-of-privacy-controls-for-microsoft-365-apps-for-enterprise"></a>Osamharc ar rialtáin phríobháideachais i comhair Feidhmchláir Microsoft 365 le haghaidh úsáide fiontair
 
@@ -85,7 +85,7 @@ Is éard atá i Microsoft 365 le haghaidh úsáide fiontair feidhmchláir bogear
 
 Tuigimid go bhféadfadh fonn a bheith ort na cineálacha eispéireas nasctha a roghnú a chuirtear ar fáil do d’úsáideoirí nuair a bhíonn siad ag obair i bhfeidhmchláir Office. Mar riarthóir eagraíochta, beidh socruithe polasaí agat a ligeann duit roghnú cibé an ndéanfar na cineálacha eispéireas nasctha seo a sholáthar do d’úsáideoirí:
 
-- **Eispéiris a dhéanann anailís ar d’inneachar** Eispéiris a úsáideann d’inneachar Office chun moltaí deartha, moltaí eagarthóireachta, léargais sonraí agus gnéithe comhchosúla a sholáthar duit. Mar shampla, Dearthóir PowerPoint nó an tEagarthóir in Word.
+- **Eispéiris a dhéanann anailís ar d’inneachar** Eispéiris a úsáideann d’inneachar Office chun moltaí deartha, moltaí eagarthóireachta, léargais sonraí agus gnéithe comhchosúla a sholáthar duit. Mar shampla, Dearthóir PowerPoint nó Translator.
 
 - **Eispéiris a dhéanann inneachar ar líne a íoslódáil** Eispéiris a ligeann duit inneachar ar líne a chuardach agus a íoslódáil, lena n-áirítear teimpléid, íomhánna, samhlacha 3T, físeáin agus ábhair tagartha chun do dhoiciméid a fheabhsú. Mar shampla, teimpléid Office nó Mearthosaitheoir PowerPoint.
 
